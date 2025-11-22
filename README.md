@@ -44,10 +44,14 @@ Developed by: RegisterNumber:*/
 
 **RTL**
 
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 172730" src="https://github.com/user-attachments/assets/181b06fc-c2f8-428c-adc4-86478976e814" />
 
 
 **Timing Diagram**
+
+
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 173023" src="https://github.com/user-attachments/assets/b3ac3860-cfe1-44ee-81dd-149295ab0dee" />
 
