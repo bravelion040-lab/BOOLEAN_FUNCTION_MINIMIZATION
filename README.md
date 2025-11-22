@@ -45,7 +45,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 
-Developed by: RegisterNumber:*/25016814
+Developed by: RegisterNumber:*/S Tozer Theophilus
 
 
 **RTL realization**
