@@ -45,7 +45,32 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 
-Developed by: RegisterNumber:*/S Tozer Theophilus
+
+
+
+
+
+
+
+
+
+
+
+<img width="1312" height="126" alt="image" src="https://github.com/user-attachments/assets/c44b4c1d-f0b9-4712-85e6-1da8a047e100" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developed by:S Tozer Theophilus RegisterNumber:*/25016814
 
 
 **RTL realization**
@@ -59,11 +84,61 @@ Developed by: RegisterNumber:*/S Tozer Theophilus
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 172730" src="https://github.com/user-attachments/assets/181b06fc-c2f8-428c-adc4-86478976e814" />
 
 
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13dbc1fb-d7df-4df6-8e6f-47e5cff682ca" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Timing Diagram**
 
 
 
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 173023" src="https://github.com/user-attachments/assets/b3ac3860-cfe1-44ee-81dd-149295ab0dee" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 175953" src="https://github.com/user-attachments/assets/5caca6bb-1005-4ce8-bc5e-a4f0d468f1e8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Result:**
